@@ -1,0 +1,16 @@
+* oophp dasar
+
+1 . class and object
+2 . property and method
+3 . constructor
+4 . object type
+5 . inheritance
+6 . overriding
+7 . visibility
+8 . setter and getter 
+9 . static keyword
+10 . constant
+11 . abstract class
+12 . interface 
+13 . autoloading 
+14 . namespace

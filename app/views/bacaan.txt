@@ -1,0 +1,33 @@
+1. baca tentang PDO::FETCH_ASSOC;
+2. object in php;
+
+
+
+
+3. DIBAWAH ADALAH PLANNING MENAMPILKAN DATA DENGAN MENGGUNAKAN KAEDAH FOREIGN KEYS
+
+
+
+.buat dulu function foreign keys dalam file functions.php
+
+
+
+
+
+.setelah user login, 
+.apabile user tekan button rent pada kereta yang berkaitan sahaja, 
+.maka ubah data dalam transaction user_id dan car_id,user_id mestilah mewakili data id dalam TABLE user(name) dan car_id ini mestilah mewakili data id car(name),sebelum masuk ke step seterusnya cek dulu masuk atau tidak(KAEDAH INI MENGGUNAKAN UPDATE)
+.kalau berjaya sampaikan pesan , 
+.lalu masukkan data yang telah ditekan tersebut ke dalam halaman profile.php , 
+.data yang kita kena tampilkan itu adalah transactions
+.
+.
+.
+.
+.
+..
+.
+.
+.
+.
+.
